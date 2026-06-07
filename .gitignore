@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv*/
+env*/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# dotenv environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Wheels
+pip-wheel-metadata/
+
+# Egg files
+*.egg
+*.egg-info
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# VS Code workspace storage
+.vscode/
+
+# Temporary files
+*.tmp
+*~
+
+# compiled C/C++ files
+*.o
+*.obj
+
+# Coverage
+coverage.xml
+
+# PyInstaller
+dist/
+build/
+
+default.env
